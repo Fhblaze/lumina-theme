@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="UserIcon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2.8062;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+</style>
+<path d="M100,6.5C45.2,6.5,0.8,48.3,0.8,100s44.4,93.5,99.2,93.5c54.8,0,99.2-41.9,99.2-93.5S154.8,6.5,100,6.5z M58.1,65.8
+	C58.1,45.5,74.6,29,94.9,29h11.3c20.4,0,36.9,16.5,36.9,36.9v25.5c0,20.4-16.5,36.9-36.9,36.9H94.9c-20.4,0-36.9-16.5-36.9-36.9
+	V65.8z M159.8,154.5l-5.6-1.2l-6.4-1.4l-5.2,4.1c-12.4,9.8-27.3,15-42.9,15c-15.6,0-30.5-5.2-42.9-15l-5.2-4.1l-6.4,1.4l-5.6,1.2
+	l-10.4-19c7.9-6.6,17.6-12,28.4-16c8,11.2,21,18.5,35.5,18.5h15.1c14.5,0,27.5-7.3,35.7-18.5c10.2,3.8,19.3,8.9,27,14.9L159.8,154.5
+	z"/>
+<path class="st0" d="M67.4,61.5c0-3.1,4.4-5.7,9.9-5.7c5.5,0,9.9,2.5,9.9,5.7"/>
+<path class="st0" d="M112.8,61.5c0-3.1,4.4-5.7,9.9-5.7c5.5,0,9.9,2.5,9.9,5.7"/>
+<path class="st1" d="M100,102.6c-11,0-19.8-3.8-19.8-8.5c0,11,8.9,19.8,19.8,19.8s19.8-8.9,19.8-19.8
+	C119.8,98.8,111,102.6,100,102.6z"/>
+<ellipse cx="77.3" cy="67.1" rx="5.7" ry="7.1"/>
+<ellipse cx="122.7" cy="67.1" rx="5.7" ry="7.1"/>
+</svg>
